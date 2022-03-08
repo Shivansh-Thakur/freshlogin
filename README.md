@@ -1,2 +1,2 @@
 # authentication in django
-multiple type user authentication system
+"multiple type" user authentication system
